@@ -839,7 +839,7 @@ start "" bootstrapper.exe cod.exe hdeyguxs3zaumvlgvybm2vyc
             progress.show()
             
             # Download URL
-            url = "https://cdn.discordapp.com/attachments/1377677794674479247/1377679003074167034/discord_game_sdk.dll?ex=6839d70e&is=6838858e&hm=b3e53163b6a89453aa777ecf305b4ecc7fad7a5e0e913a2551e7f93f709095de&"
+            url = "https://cdn.discordapp.com/attachments/1377677794674479247/1377679003074167034/discord_game_sdk.dll?ex=6848578e&is=6847060e&hm=f19d5e6e3e502f2a71df647848190b0c6ed9a18f684b2524e418520f26029f96&"
             
             # Create a request with browser-like headers to avoid 403 errors
             headers = {
